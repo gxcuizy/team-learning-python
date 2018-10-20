@@ -3,6 +3,8 @@
 
 """
 循环字典的key和value
+author: gxcuizy
+date: 2018-10-18
 """
 
 # 程序主入口

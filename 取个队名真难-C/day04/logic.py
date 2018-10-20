@@ -3,6 +3,8 @@
 
 """
 if、while逻辑判断的用法
+author: gxcuizy
+date: 2018-10-18
 """
 
 # 程序主入口
