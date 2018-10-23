@@ -33,9 +33,28 @@
 - 基础函数的学习（day05/fun.py）
 - 基础异常处理（day05/error.py）
 
-### Task6 date: 2018-10-120
+### Task6 date: 2018-10-20
 
 - 使用生成器创建斐波拉契数列（day06/fibonacci_sequence.py）
+- 文件操作的练习和使用（day06/file_user.py）
+- Requests模块的练习和使用（day06/requests_use.py）
+
+### Task7 date: 2018-10-21
+
+- Python知识点回忆总结（day07/knowledge.md）
+- os模块的基础使用和练习（day07/os_use.py）
+- Requests获取掘金沸点数据练习（day07/juejin_poins.py）
+
+### Task8 date: 2018-10-22
+
+- 高阶函数的练习和使用（day08/fun_to_code.py）
+- 打扰了，利用装饰器给判断函数加个[有趣的]功能（day08/decorator.py）
+
+### Task9 date: 2018-10-23
+
+- 继续打扰了，利用装饰器给判断函数加个[有趣的]功能（day09/prime_to_fun.py）
+- 遍历创建多级目录（day09/make_dirs.py）
+- 遍历多级目录下的文件夹以及文件（day09/for_dir.py）
 
 ### Team-Learning-Python
 
