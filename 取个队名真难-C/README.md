@@ -56,6 +56,42 @@
 - 遍历创建多级目录（day09/make_dirs.py）
 - 遍历多级目录下的文件夹以及文件（day09/for_dir.py）
 
+### Task10 date: 2018-10-24
+
+- 利用Requests抓取沸点内容存到txt文件（day10/poins_content.py）
+
+### Task11 date: 2018-10-25
+
+- pip的基础使用（day11/pip.md）
+- pickle序列化字典数据的使用（day11/pickle_use.py）
+- json序列化字典数据的使用（day11/json_use.py）
+- openpyxl模块操作Excel表格的读写（day11/excel_use.py）
+- 下载视频、音乐、图片文件（day11/download.py）
+- csv的基本了解和读写文件（day11/csv_use.py）
+
+### Task12 date: 2018-10-28
+
+- 利用pymysql模块管理mysql的连接和CURD基础使用（day12/mysql_use.py）
+- 掘金沸点内容，各种方式存储练习（day12/poins_save.py）
+
+### Task13 date: 2018-10-29
+
+- 正则表达式的基本学习和使用（day13/re_use.py）
+- 面向对象编程的使用和练习（day13/oop_use.py）
+
+### Task14 date: 2018-10-30
+
+- 常见的内建模块练习之datetime（day14/datetime_use.py）
+- 常见的内建模块练习之collections（day14/collections_use.py）
+- 常见的内建模块练习之base64、struct（day14/char_use.py）
+- 常见的内建模块练习之hashlib、hmac（day14/encrypt_use.py）
+- 常见的内建模块练习之xml、HTMLParser（day14/html_use.py）
+
+### Task15 date: 2018-10-31
+
+- BeautifulSoup的基础使用（day15/bs_use.py）
+- 利用bs4爬取博客的猜你喜欢内容（day15/get_like.py）
+
 ### Team-Learning-Python
 
 ![team_img](https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=07bcd69444b1da123c309e5f4485371b&auto=format&fit=crop&w=1050&q=80)
