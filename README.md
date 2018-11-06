@@ -312,3 +312,57 @@ https://juejin.im/pin/5bc945ddf265da6aedfc9161
 2. 练习二（进阶练习）：在练习一的补充下，爬取文章标题以及文章发布时间(其实就是一个练习)
 
 <img src = "https://ws4.sinaimg.cn/large/006tNbRwgy1fwra9dqw4wj309n0ca0uw.jpg">
+
+## Task16 time:2018年11月01日-02日
+
+### 学习目标
+
+1. 继续学习和理解BeautifulSoup模块的使用
+
+### 练习
+
+1. 爬取国家统计局2017年区域和城乡划分代码的省市区街道办事处信息
+    - 可以先只爬取其中一个省的信息
+    - 保存格式，可以选择Excel、json、txt等任意格式
+    - 链接直通车：[http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2017/)
+    
+
+## Task17 time:2018年11月05日
+
+### 学习目标
+
+1. [BeautifulSoup的理解和使用](https://cuiqingcai.com/5548.html)    [官网](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html)
+2. [进程和线程的理解和使用](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014319272686365ec7ceaeca33428c914edf8f70cca383000)
+
+### 练习
+
+
+1. 爬取[国家地理杂志](http://www.ngchina.com.cn/magazine/)的首页信息
+    - 爬取首页数据列表的图片和图片上面的文字
+    - 然后再跳转到 "更多内容" 爬取里面的数据
+    - 自己决定存储方式
+2. 学习进程和线程(要求理解)
+3. 优先爬虫!!
+    
+#### 备注 :红框内容是爬取内容
+
+<img src="https://ws1.sinaimg.cn/large/006tNbRwgy1fwx0nrp375j314w0xqx6p.jpg" height=250> <img src="https://ws4.sinaimg.cn/large/006tNbRwgy1fwx134k51sj314m0yu1kx.jpg" height=250>
+
+## Task17 time:2018年11月06日
+
+【战胜拖延症，组团学 Python】第八课：
+
+0. 昨天尝试抓取掘金的关注用户，我已经做到了。so~
+1. 阅读掘金小册[《基于 Python 实现微信公众号爬虫》](https://juejin.im/book/5a157c155188254a701eb3c1/section/5a27814f6fb9a0451463e9fc#heading-0)试读部分
+2. 抓取掘金任一账号的所有关注者 昵称和ID 并保存为 json 文件
+
+回复代码截图即可成功打卡，海绵会从打卡的人中抽5位送出《基于 Python 实现微信公众号爬虫》各一本。
+
+### 学习目标
+
+1. 掘金重新恢复打卡，记得打卡 → [https://juejin.im/pin/5be113e56fb9a04cc73b900d](https://juejin.im/pin/5be113e56fb9a04cc73b900d)
+2. 之前落下的学习任务，找时间补补
+
+### 练习
+
+1. 补前面落下的就行
