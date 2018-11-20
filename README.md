@@ -348,7 +348,7 @@ https://juejin.im/pin/5bc945ddf265da6aedfc9161
 
 <img src="https://ws1.sinaimg.cn/large/006tNbRwgy1fwx0nrp375j314w0xqx6p.jpg" height=250> <img src="https://ws4.sinaimg.cn/large/006tNbRwgy1fwx134k51sj314m0yu1kx.jpg" height=250>
 
-## Task17 time:2018年11月06日
+## Task18 time:2018年11月06日
 
 【战胜拖延症，组团学 Python】第八课：
 
@@ -366,3 +366,100 @@ https://juejin.im/pin/5bc945ddf265da6aedfc9161
 ### 练习
 
 1. 补前面落下的就行
+
+## Task19 time:2018年11月07日
+
+【战胜拖延症，组团学 Python】
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+### 学习目标
+
+1. 掘金重新恢复打卡(后续补上)
+2. 熟悉了解Scrapy  [中文翻译版](https://scrapy-chs.readthedocs.io/zh_CN/1.0/index.html),    [英文版](https://doc.scrapy.org/en/stable/index.html)这个需要大家花时间去学习
+
+### 练习
+
+1. 补前面落下的
+2. 可以的话,使用Scrapy来做些例子
+
+
+## Task20 time:2018年11月08日
+
+【战胜拖延症，组团学 Python】
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+### 学习目标
+
+1. 了解Selenium，及其基本语法和用法，可以参考下面的教程，更多的可以自己Google
+    - [官方教程中文版](https://selenium-python-zh.readthedocs.io/en/latest/index.html)
+    - [静觅博客的Selenium的用法教程](https://cuiqingcai.com/2599.html)
+2. 掘金日常打卡
+
+### 练习
+
+1. 尽量把各个用法和知识点都练习一遍，加深印象
+
+## Task21 time:2018年11月09日-11日
+
+### 学习目标
+
+1. 了解splinter，及其基本语法和用法，可以参考下面的教程，更多的需要自己Google
+    - [splinter官方教程中文版](https://splinter-docs-zh-cn.readthedocs.io/zh/latest/index.html)
+    - Google/Baidu
+
+### 练习
+
+1. 尽量把各个基础用法和知识点都熟悉一遍，加深印象
+2. 利用selenium爬淘宝商品
+    - 进入淘宝首页
+    - 输入一个商品关键词进行搜索（商品关键词自己定）
+    - 然后爬取商品信息（信息包含：商品图片，价格，购买人数，名称，所属店铺，店铺地点，商品链接……）
+    - 下载图片，其他文本信息的存储格式自己定
+    - 有分页的，需要分页爬取
+3. 在完成练习2的前提下，尝试用splinter替换selenium再实现同样的爬淘宝商品的练习
+
+## Task22 time:2018年11月12日
+
+### 学习目标
+
+【战胜拖延症，组团学 Python】第十课：前几天有人在群里咨询掘金前端分类有多...#掘金沸点#
+https://juejin.im/pin/5be93f8d6fb9a0567836c199
+
+1. 继续上次的学习,这两天放松下
+2. 打卡,打完之后该干啥就干啥
+
+
+### 备注: 活动最后一次打卡!
+咋们的活动到此结束了,但是我们的爬虫之旅才刚刚开始.
+
+以后会有继续学习目标,但是可以不用上传代码和打卡了.你们开心就好.
+
+终于没人来烦你们了!!!
+
+<img src="https://ws4.sinaimg.cn/large/006tNbRwgy1fx5ensl8b1g306o06onhz.gif">
+
+See You Next Time~
+
+
+## Task23 time:2018年11月14日
+<img src="https://ws3.sinaimg.cn/large/006tNbRwgy1fx7dn6zq8dj30730730sr.jpg">
+
+###  简介:
+Matplotlib是一个Python 2D绘图库，它可以在各种平台上以各种硬拷贝格式和交互式环境生成出具有出版品质的图形。 Matplotlib可用于Python脚本，Python和IPython shell，Jupyter笔记本，Web应用程序服务器和四个图形用户界面工具包
+
+Matplotlib试图让简单的事情变得更简单，让无法实现的事情变得可能实现。 只需几行代码即可生成绘图，直方图，功率谱，条形图，错误图，散点图等。
+### 学习目标
+
+1. Matplotlib常用绘图熟悉使用
+2. [官网地址](https://matplotlib.org/index.html)
+3. [参考资料](https://ws1.sinaimg.cn/large/006tNbRwgy1fx7e1sfjmrj30bd0bbq5b.jpg)
+
+
+
+### 练习
+
+1.熟悉matplotlib的基本使用
+
+2.绘制: [折线图](https://baike.baidu.com/item/%E6%8A%98%E7%BA%BF%E5%9B%BE/10816540?fr=aladdin),  	[散点图](https://baike.baidu.com/item/%E6%95%A3%E7%82%B9%E5%9B%BE),	[柱状图](https://baike.baidu.com/item/%E6%9F%B1%E7%8A%B6%E5%9B%BE),	[饼图](https://baike.baidu.com/item/%E9%A5%BC%E5%9B%BE),	[直方图](https://baike.baidu.com/item/%E7%9B%B4%E6%96%B9%E5%9B%BE/1103834),	[子图](https://baike.baidu.com/item/%E5%AD%90%E5%9B%BE),	自定义x轴y轴等~
+
